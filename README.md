@@ -37,6 +37,10 @@ Overall, this project demonstrates how a combination of NLP and network analysis
 
 ## Requirements
 
+
+
+
+
 This project requires Python 3.x and the following packages:
 
 - Pandas
@@ -51,6 +55,9 @@ To use this project, clone the repository and run the `US_Election_Tweets_Networ
 ## Credits
 
 The dataset was obtained from [US Elections 2020 Kaggle](https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets). 
+
+## Working
+https://github.com/souvenger/Coordinated-Inauthentic-Behaviour-/assets/74491716/14ae4c6c-f77e-43df-81b6-58997071c6c0
 
 # Results
 ![image](https://github.com/souvenger/Coordinated-Inauthentic-Behaviour-/assets/74491716/9825539c-3ad5-4cf7-b284-5f8d5a74d036)
